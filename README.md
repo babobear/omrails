@@ -3,5 +3,5 @@
 This is the sample application for 
 [*One Month Rails: Teach Yourself to Code*]{http://onemonthrails.com}
 
-by [Susan Zheng]{http:susanzheng.com}
+by [Susan Zheng]{http:lynxsy.com}
 
